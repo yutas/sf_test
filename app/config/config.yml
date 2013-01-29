@@ -58,3 +58,8 @@ swiftmailer:
     username:  "%mailer_user%"
     password:  "%mailer_password%"
     spool:     { type: memory }
+
+th_hierarchy:
+    domains:
+        - {domain:"*.newassistent.*", namespace: "Assistent", ancestors: ["Core"]}
+        - {domain:"*.neweasybooker.*", namespace: "Easybooker", ancestors: ["Core"]}

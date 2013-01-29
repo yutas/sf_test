@@ -1,5 +1,5 @@
 {
-    "hash": "afc6c8c8b9fe2252c0f74737aa59060b",
+    "hash": "9841c1fee9d7d4757c7716f56a5f8bee",
     "packages": [
         {
             "name": "doctrine/common",
@@ -25,12 +25,12 @@
                     "dev-master": "2.3.x-dev"
                 }
             },
+            "installation-source": "dist",
             "autoload": {
                 "psr-0": {
                     "Doctrine\\Common": "lib/"
                 }
             },
-            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -95,12 +95,12 @@
                     "dev-master": "2.3.x-dev"
                 }
             },
+            "installation-source": "dist",
             "autoload": {
                 "psr-0": {
                     "Doctrine\\DBAL": "lib/"
                 }
             },
-            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -170,12 +170,12 @@
                     "dev-master": "1.1.x-dev"
                 }
             },
+            "installation-source": "dist",
             "autoload": {
                 "psr-0": {
                     "Doctrine\\Bundle\\DoctrineBundle": ""
                 }
             },
-            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -236,12 +236,12 @@
                     "dev-master": "2.3.x-dev"
                 }
             },
+            "installation-source": "dist",
             "autoload": {
                 "psr-0": {
                     "Doctrine\\ORM": "lib/"
                 }
             },
-            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -296,12 +296,12 @@
                     "dev-master": "1.3.x-dev"
                 }
             },
+            "installation-source": "dist",
             "autoload": {
                 "classmap": [
                     "lib"
                 ]
             },
-            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "LGPL"
             ],
@@ -340,12 +340,12 @@
             },
             "time": "2012-01-02 12:50:26",
             "type": "symfony-bundle",
+            "installation-source": "dist",
             "autoload": {
                 "psr-0": {
                     "JMS\\AopBundle": ""
                 }
             },
-            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "Apache"
             ],
@@ -382,12 +382,12 @@
             },
             "time": "2012-01-02 12:40:52",
             "type": "library",
+            "installation-source": "dist",
             "autoload": {
                 "psr-0": {
                     "CG\\": "src/"
                 }
             },
-            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "Apache"
             ],
@@ -441,12 +441,12 @@
             },
             "time": "2012-09-21 01:56:32",
             "type": "symfony-bundle",
+            "installation-source": "dist",
             "autoload": {
                 "psr-0": {
                     "JMS\\DiExtraBundle": ""
                 }
             },
-            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "Apache"
             ],
@@ -484,12 +484,12 @@
             },
             "time": "2012-01-02 13:32:49",
             "type": "library",
+            "installation-source": "dist",
             "autoload": {
                 "psr-0": {
                     "Metadata\\": "src/"
                 }
             },
-            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "Apache"
             ],
@@ -547,12 +547,12 @@
             },
             "time": "2012-09-06 09:12:03",
             "type": "symfony-bundle",
+            "installation-source": "dist",
             "autoload": {
                 "psr-0": {
                     "JMS\\SecurityExtraBundle": ""
                 }
             },
-            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "Apache2"
             ],
@@ -610,13 +610,14 @@
                 "ptachoire/cssembed": "Assetic provides the integration with phpcssembed to embed data uris",
                 "leafo/scssphp-compass": "Assetic provides the integration with the SCSS compass plugin"
             },
-            "time": "2013-01-12 22:20:24",
+            "time": "1358029224",
             "type": "library",
             "extra": {
                 "branch-alias": {
                     "dev-master": "1.1-dev"
                 }
             },
+            "installation-source": "source",
             "autoload": {
                 "psr-0": {
                     "Assetic": "src/"
@@ -625,7 +626,6 @@
                     "src/functions.php"
                 ]
             },
-            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -676,12 +676,12 @@
                     "dev-master": "1.3.x-dev"
                 }
             },
+            "installation-source": "dist",
             "autoload": {
                 "psr-0": {
                     "Monolog": "src/"
                 }
             },
-            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -725,12 +725,12 @@
                     "dev-master": "2.1.x-dev"
                 }
             },
+            "installation-source": "dist",
             "autoload": {
                 "psr-0": {
                     "Sensio\\Bundle\\DistributionBundle": ""
                 }
             },
-            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -772,12 +772,12 @@
                     "dev-master": "2.1.x-dev"
                 }
             },
+            "installation-source": "dist",
             "autoload": {
                 "psr-0": {
                     "Sensio\\Bundle\\FrameworkExtraBundle": ""
                 }
             },
-            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -824,12 +824,12 @@
                     "dev-master": "2.1.x-dev"
                 }
             },
+            "installation-source": "dist",
             "autoload": {
                 "psr-0": {
                     "Sensio\\Bundle\\GeneratorBundle": ""
                 }
             },
-            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -865,12 +865,12 @@
                     "dev-master": "4.2-dev"
                 }
             },
+            "installation-source": "dist",
             "autoload": {
                 "files": [
                     "lib/swift_required.php"
                 ]
             },
-            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "LGPL"
             ],
@@ -929,12 +929,12 @@
                     "dev-master": "2.1.x-dev"
                 }
             },
+            "installation-source": "dist",
             "autoload": {
                 "psr-0": {
                     "Symfony\\Bundle\\AsseticBundle": ""
                 }
             },
-            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -986,12 +986,12 @@
                     "dev-master": "2.1.x-dev"
                 }
             },
+            "installation-source": "dist",
             "autoload": {
                 "psr-0": {
                     "Symfony\\Bundle\\MonologBundle": ""
                 }
             },
-            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -1045,12 +1045,12 @@
                     "dev-master": "2.1-dev"
                 }
             },
+            "installation-source": "dist",
             "autoload": {
                 "psr-0": {
                     "Symfony\\Bundle\\SwiftmailerBundle": ""
                 }
             },
-            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -1129,13 +1129,13 @@
             },
             "time": "2013-01-17 21:21:51",
             "type": "library",
+            "installation-source": "dist",
             "autoload": {
                 "psr-0": {
                     "Symfony": "src/",
                     "SessionHandlerInterface": "src/Symfony/Component/HttpFoundation/Resources/stubs"
                 }
             },
-            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -1156,6 +1156,44 @@
             ]
         },
         {
+            "name": "th/hierarchy-bundle",
+            "version": "dev-master",
+            "target-dir": "TH/HierarchyBundle",
+            "source": {
+                "type": "git",
+                "url": "git@github.com:yutas/hierarchy_bundle.git",
+                "reference": "34fd4003e329ecd20ce40de906724dd335d634df"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://github.com/yutas/hierarchy_bundle/archive/34fd4003e329ecd20ce40de906724dd335d634df.zip",
+                "reference": "34fd4003e329ecd20ce40de906724dd335d634df",
+                "shasum": ""
+            },
+            "time": "1359460384",
+            "type": "symfony-bundle",
+            "installation-source": "source",
+            "autoload": {
+                "psr-0": {
+                    "TH\\HierarchyBundle": ""
+                }
+            },
+            "license": [
+                "Apache"
+            ],
+            "authors": [
+                {
+                    "name": "Artyom Domashevich",
+                    "email": "a.domashevich@gmail.com"
+                }
+            ],
+            "description": "Allows to extend actions in user bundles",
+            "homepage": "http://github.com/yutas/hierarchy_bundle",
+            "keywords": [
+                "bundles hierarchy"
+            ]
+        },
+        {
             "name": "twig/extensions",
             "version": "dev-master",
             "source": {
@@ -1172,19 +1210,19 @@
             "require": {
                 "twig/twig": "1.*"
             },
-            "time": "2013-01-04 16:55:05",
+            "time": "1357318505",
             "type": "library",
             "extra": {
                 "branch-alias": {
                     "dev-master": "1.0.x-dev"
                 }
             },
+            "installation-source": "source",
             "autoload": {
                 "psr-0": {
                     "Twig_Extensions_": "lib/"
                 }
             },
-            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -1226,12 +1264,12 @@
                     "dev-master": "1.12-dev"
                 }
             },
+            "installation-source": "dist",
             "autoload": {
                 "psr-0": {
                     "Twig_": "lib/"
                 }
             },
-            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "BSD-3"
             ],
@@ -1252,15 +1290,14 @@
             ]
         }
     ],
-    "packages-dev": [
-
-    ],
+    "packages-dev": null,
     "aliases": [
 
     ],
     "minimum-stability": "stable",
     "stability-flags": {
         "twig/extensions": 20,
-        "kriswallsmith/assetic": 20
+        "kriswallsmith/assetic": 20,
+        "th/hierarchy-bundle": 20
     }
 }
